@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+ }
+
+
+ 
+ #mode{
+  text-align: center;
+  color: aqua;
+  
+ }
+
+
+.dark{
+  background-color: black;
+ 
+}
+
+.light{
+  background-color: white;
+ 
+}
+
+ 
+ 
